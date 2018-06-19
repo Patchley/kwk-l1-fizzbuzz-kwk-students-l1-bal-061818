@@ -1,3 +1,4 @@
 def fizzbuzz (number)
-  #code
+  if int % 3 == 0
+    "Fizz"
 end
